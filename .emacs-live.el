@@ -7,3 +7,6 @@
 (global-set-key (kbd "M-v") 'yank)
 (global-set-key (kbd "M-z") 'undo)
 (global-set-key (kbd "M-w") 'delete-window)
+
+;; CIDER light table Mode
+(global-set-key (kbd "M-S-<return>") 'cider-load-current-buffer)
