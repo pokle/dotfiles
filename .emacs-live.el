@@ -10,7 +10,7 @@
 (global-set-key (kbd "C-S-j") 'join-line)
 
 ;; CIDER light table Mode
-(global-set-key (kbd "M-S-<return>") 'cider-load-current-buffer)
+(global-set-key (kbd "M-S-<return>") 'cider-load-buffer)
 
 (setq load-prefer-newer t)
 
