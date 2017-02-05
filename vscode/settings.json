@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 13,
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Mononoki",
+    "typescript.check.tscVersion": false,
+    "window.zoomLevel": 0
+}
