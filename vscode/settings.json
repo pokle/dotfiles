@@ -1,8 +1,12 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "editor.fontSize": 13,
+    "editor.fontSize": 14,
     "files.autoSave": "onFocusChange",
-    "editor.fontFamily": "Mononoki",
+    "editor.fontFamily": "Input Mono",
+    "editor.fontLigatures": true,
     "typescript.check.tscVersion": false,
-    "window.zoomLevel": 0
+    "window.zoomLevel": 0,
+    "eslint.autoFixOnSave": true,
+    "workbench.colorTheme": "LCY",
+    "git.confirmSync": false
 }
