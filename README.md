@@ -4,6 +4,7 @@ Most folders should have install.sh scripts.
 
 # Fonts
 
+- Input font - http://input.fontbureau.com/
 - Install Mononoki font - http://madmalik.github.io/mononoki/
 
 # Emacs
